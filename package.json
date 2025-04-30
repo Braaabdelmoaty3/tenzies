@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.4"
+  },
+  "dependencies": {
+    "react-confetti": "^6.4.0",
+    "react-use": "^17.6.0"
+  }
+}
